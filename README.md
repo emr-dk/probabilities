@@ -14,9 +14,7 @@ Making $k$ choices from $n$ objects has $n^k$ outcomes
 
 ### Sampling without replacement (p12)
 Making $k$ choices from $n$ has 
-$$
-n(n-1) \cdots (n-k+1), 1 \leq k \leq n 
-$$
+$n(n-1) \cdots (n-k+1), 1 \le k \le n$ outcomes
 
 # Binomials
 
