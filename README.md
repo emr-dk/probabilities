@@ -9,5 +9,14 @@ $$
 ### Multiplication rule (P8)
 If we have a compound experiment consisting of Experiment A with $a$ outcomes and Experiment B with $b$ outcomes, the possible outcomes will be $a \cdot b = b \cdot a$ 
 
+### Sampling with replacement (p11)
+Making $k$ choices from $n$ objects has $n^k$ outcomes
+
+### Sampling without replacement (p12)
+Making $k$ choices from $n$ has 
+$$
+n(n-1) \cdots (n-k+1), 1 \leq k \leq n 
+$$
+
 # Binomials
 
