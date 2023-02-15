@@ -20,6 +20,4 @@ $n(n-1) \cdots (n-k+1), 1 \le k \le n$ outcomes
 For any integer where $k \ge 0$ and $n \ge 0$ the binomial coefficient is the number of subsets of size $k$ for $S$ with size $n$. Written as ${n\choose k}$ and read as $n$ choose $k$.
 
 Where $k \le n$ the binomial coefficient formula is written as 
-$$
-{n\choose k} = \frac{n(n-1)\cdots(n-k+1)}{k!}=\frac{n!}{(n-k)!k!}
-$$
+$${n\choose k} = \frac{n(n-1)\cdots(n-k+1)}{k!}=\frac{n!}{(n-k)!k!}$$
