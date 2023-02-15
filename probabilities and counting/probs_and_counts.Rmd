@@ -1,0 +1,21 @@
+---
+title: "Probability and counting"
+output: html_notebook
+---
+
+# Factorials and binomial coefficients
+Computing $n!$ is done by using the function factorial(n), and the binomial coefficient is done by using 
+
+```{r}
+factorial(n)
+choose(n,k)
+```
+
+# Sampling and simulation
+The *sample* command is used in the following way:
+```{r}
+n <- 50; k <- 7
+sample(n,k)
+```
+
+This draws an ordered sample of 7 of the numbers from 1 to 50, without replacement and equal probabilities given to each 
