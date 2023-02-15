@@ -21,5 +21,5 @@ For any integer where $k \ge 0$ and $n \ge 0$ the binomial coefficient is the nu
 
 Where $k \le n$ the binomial coefficient formula is written as 
 $$
-begin{pmatrix}n \\ k \end{pmatrix} = \frac{n(n-1)\cdots(n-k+1)}{k!}=\frac{n!}{(n-k)!k!}
+\begin{pmatrix}n \\ k \end{pmatrix} = \frac{n(n-1)\cdots(n-k+1)}{k!}=\frac{n!}{(n-k)!k!}
 $$
